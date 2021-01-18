@@ -1,5 +1,11 @@
 ''' Before starting program please Allow less secure apps: ON link:  https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OgLOVId9DxSpj6GTOkPKSElDDzpCBJuwKknnxCIBvzyXLNvrztWXWUeoykd-BWFyLvFuqXMk92ERdA1FK7Sw5gejXWkg
-    Give permission to your Google to send Email By Simply clicking on the new arrived Google mail''' # ==> "Yes,this is me" 
+    Give permission to your Google to send Email By Simply clicking on the new arrived Google mail''' # ==> "Yes,this is me"
+'''Please install 
+◉ pandas==1.2.0
+◉ openpyxl==3.0.6
+◉ plyer==2.0.0
+◉ lxml==4.6.2
+'''
 # lets start
 # Made by : Ayush Shete
 
